@@ -161,11 +161,6 @@ $(document).ready(function(){
 				$('.menu-button-slide.right').css('display','block');
 			}
 		}
-		else{
-			$("#col-3").css('z-index','600');
-			$("#col-3").addClass('col-3-right');
-			$('.menu-button-slide.right').css('display','block');
-		}
-	}
+		
 	
 });
